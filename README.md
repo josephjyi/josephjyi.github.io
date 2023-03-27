@@ -14,7 +14,7 @@
 <img src='./eyes.png' width='100'>
 <p></p>
 
-# Bus Tracker Repo
+## Bus Tracker Repo
 <a href="https://josephjyi.github.io/bus-tracker"> Real Time Bus Tracker </a>
 <p></p>
 <img src='./bus-icon.png' width='200'>
