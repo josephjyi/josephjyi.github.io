@@ -5,7 +5,7 @@
 ## PacMen Repo
 <a href="https://josephjyi.github.io/pacman"> PacMen Exercise </a>
 <p></p>
-<img src='pacman/images/PacMan1.png' width='80'>
+<img src='./PacMan1.png' width='80'>
 <p></p>
 
 ## Eyes Repo
