@@ -17,5 +17,5 @@
 # Bus Tracker Repo
 <a href="https://josephjyi.github.io/bus-tracker"> Real Time Bus Tracker </a>
 <p></p>
-<img src='./bus-icon.png' width='200'>
+<img src='./bus-icon.png' width='150'>
 <p></p>
