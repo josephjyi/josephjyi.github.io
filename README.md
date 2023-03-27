@@ -1,4 +1,4 @@
 # josephjyi.github.io
 # My Portfolio
 ## My Eyes Repo
-<a href="http://josephjyi.github.io/pacman"> Pacman Exercise </a>
+<a href="https://josephjyi.github.io/pacman"> Pacman Exercise </a>
