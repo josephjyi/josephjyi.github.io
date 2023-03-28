@@ -1,0 +1,36 @@
+
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 5px;
+
+    font-family: verdana;
+    font-size: 1em;
+    font-variant: small-caps;
+    color: blue;
+}
+
+div {
+    background: cadetblue;
+    padding: 30px;
+    text-align: center;
+}
+
+div:nth-of-type(odd) {
+    background: burlywood;
+}
+
+.blueItems {
+    font-family: verdana;
+    font-size: 1em;
+    font-variant: small-caps;
+    color: blue;
+}
+
+#blackItems {
+    font-family: verdana;
+    font-size: smaller;
+    font-variant: normal;
+    color: black;
+}
